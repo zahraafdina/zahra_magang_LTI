@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="gambar">
+    <file>gambar.jpg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>wrong.png</file>
+  </qresource>
+</RCC>
